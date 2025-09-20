@@ -1,0 +1,189 @@
+body {
+    font-family: "roboto", sans-serif;
+    color:#2E2F42;
+}
+
+ul {
+    list-style-type: none;
+}
+
+nav {
+    background-color: #FFFFFF;
+}
+.navbar ul li a {
+font-family: inherit;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0.02em;
+color: #2E2F42;
+text-decoration: none;
+}
+
+
+.navbar ul li a:hover, .navbar ul li a:focus {
+    font-family: inherit;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #404BBF;
+    text-decoration: none;
+}
+
+.navbar ul li a:active {
+    font-family: inherit;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #404BBF;
+    text-decoration: underline;
+}
+
+.addressbar a {
+font-family: inherit;
+color: #434455;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0.02em;
+text-decoration: none;
+} 
+
+.addressbar a:hover, .addressbar a:focus {
+    font-family: inherit;
+        color: #404BBF;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+ 
+}
+
+h1 {
+font-family: inherit;
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 60px;
+    letter-spacing: 0.02em;
+    background-color: #2E2F42;
+}
+
+button {
+    background-color: #4D5AE5;
+    color: #FFFFFF;
+    width: 169px;
+    height: 56px;
+}
+
+button:hover {
+    background-color: #404BBF;
+    color: #FFFFFF;
+    width: 169px;
+    height: 56px;
+    cursor: pointer;
+}
+
+.buttonarea {
+    background-color:#2E2F42;
+    text-decoration: none;
+}
+
+.fields ul li h3 {
+font-family: inherit;
+    color: #2E2F42;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    background-color: #FFFFFF;
+}
+
+.fields ul li p {
+font-family: inherit;
+    color: #434455;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    background-color: #FFFFFF;
+}
+
+.team h2 {
+    font-family: inherit;
+        color: #2E2F42;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 40px;
+        letter-spacing: 0.02em;
+        background-color: #F4F4FD;
+}
+
+.team {
+background-color: #F4F4FD;
+}
+
+.team h3 {
+    font-family: inherit;
+    color: #2E2F42;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    background-color: #FFFFFF;
+}
+
+.team p {
+    font-family: inherit;
+    color: #434455;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    background-color: #FFFFFF; 
+}
+
+.portfolio h2 {
+    font-family: inherit;
+    color: #2E2F42;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 40px;
+    letter-spacing: 0.02em;
+    background-color: #F4F4FD;
+}
+
+.portfolio h3 {
+    font-family: inherit;
+    color: #2E2F42;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    background-color: #FFFFFF;
+}
+
+.portfolio p {
+    font-family: inherit;
+    color: #434455;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    background-color: #FFFFFF;
+}
+footer {
+    background-color:#2E2F42;
+}
+
+footer p {
+        font-family:inherit;
+        color:#F4F4FD;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+        background-color: #2E2F42;
+}

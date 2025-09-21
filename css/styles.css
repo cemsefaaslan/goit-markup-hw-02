@@ -14,7 +14,7 @@ nav {
 font-family: inherit;
 font-size: 16px;
 font-weight: 500;
-line-height: 24px;
+line-height: 1.5;
 letter-spacing: 0.02em;
 color: #2E2F42;
 text-decoration: none;
@@ -25,7 +25,7 @@ text-decoration: none;
     font-family: inherit;
     font-size: 16px;
     font-weight: 500;
-    line-height: 24px;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     color: #404BBF;
     text-decoration: none;
@@ -35,7 +35,7 @@ text-decoration: none;
     font-family: inherit;
     font-size: 16px;
     font-weight: 500;
-    line-height: 24px;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     color: #404BBF;
     text-decoration: underline;
@@ -44,9 +44,8 @@ text-decoration: none;
 .addressbar a {
 font-family: inherit;
 color: #434455;
-font-weight: 400;
 font-size: 16px;
-line-height: 24px;
+line-height: 1.5;
 letter-spacing: 0.02em;
 text-decoration: none;
 } 
@@ -54,9 +53,8 @@ text-decoration: none;
 .addressbar a:hover, .addressbar a:focus {
     font-family: inherit;
         color: #404BBF;
-        font-weight: 400;
         font-size: 16px;
-        line-height: 24px;
+        line-height: 1.5;
         letter-spacing: 0.02em;
  
 }
@@ -66,7 +64,7 @@ font-family: inherit;
     color: #FFFFFF;
     font-weight: 700;
     font-size: 56px;
-    line-height: 60px;
+    line-height: 1.07;
     letter-spacing: 0.02em;
     background-color: #2E2F42;
 }
@@ -96,7 +94,7 @@ font-family: inherit;
     color: #2E2F42;
     font-weight: 500;
     font-size: 20px;
-    line-height: 24px;
+    line-height: 1.2;
     letter-spacing: 0.02em;
     background-color: #FFFFFF;
 }
@@ -104,9 +102,8 @@ font-family: inherit;
 .fields ul li p {
 font-family: inherit;
     color: #434455;
-    font-weight: 400;
     font-size: 16px;
-    line-height: 24px;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     background-color: #FFFFFF;
 }
@@ -116,7 +113,7 @@ font-family: inherit;
         color: #2E2F42;
         font-weight: 700;
         font-size: 36px;
-        line-height: 40px;
+        line-height: 1.11;
         letter-spacing: 0.02em;
         background-color: #F4F4FD;
 }
@@ -130,19 +127,18 @@ background-color: #F4F4FD;
     color: #2E2F42;
     font-weight: 500;
     font-size: 20px;
-    line-height: 24px;
+    line-height: 1.2;
     letter-spacing: 0.02em;
-    background-color: #FFFFFF;
+    background-color: #F4F4FD;
 }
 
 .team p {
     font-family: inherit;
     color: #434455;
-    font-weight: 400;
     font-size: 16px;
-    line-height: 24px;
+    line-height: 1.2;
     letter-spacing: 0.02em;
-    background-color: #FFFFFF; 
+    background-color: #F4F4FD; 
 }
 
 .portfolio h2 {
@@ -150,7 +146,7 @@ background-color: #F4F4FD;
     color: #2E2F42;
     font-weight: 700;
     font-size: 36px;
-    line-height: 40px;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     background-color: #F4F4FD;
 }
@@ -160,7 +156,7 @@ background-color: #F4F4FD;
     color: #2E2F42;
     font-weight: 500;
     font-size: 20px;
-    line-height: 24px;
+    line-height: 1.2;
     letter-spacing: 0.02em;
     background-color: #FFFFFF;
 }
@@ -168,9 +164,8 @@ background-color: #F4F4FD;
 .portfolio p {
     font-family: inherit;
     color: #434455;
-    font-weight: 400;
     font-size: 16px;
-    line-height: 24px;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     background-color: #FFFFFF;
 }
@@ -181,9 +176,41 @@ footer {
 footer p {
         font-family:inherit;
         color:#F4F4FD;
-        font-weight: 400;
         font-size: 16px;
-        line-height: 24px;
+        line-height: 1.5;
         letter-spacing: 0.02em;
         background-color: #2E2F42;
 }
+
+.logo1 {
+            font-family: "Raleway", sans-serif;
+            color: #4D5AE5;
+            font-weight: 700;
+            font-size: 18px;
+            line-height: 1.17;
+            letter-spacing: 0.03em;
+            text-transform: uppercase;
+            text-decoration: none;
+}
+
+.logo2 {
+    font-family: "Raleway", sans-serif;
+    color:#2E2F42;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    text-decoration: none;
+    }
+
+ .logo3 {
+            font-family: "Raleway", sans-serif;
+            color: #F4F4FD;
+            font-weight: 700;
+            font-size: 18px;
+            line-height: 1.17;
+            letter-spacing: 0.03em;
+            text-transform: uppercase;
+            text-decoration: none;
+        }
